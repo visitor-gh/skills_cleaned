@@ -1,0 +1,27 @@
+[
+  {
+    "command": "/rewrite",
+    "name": "리라이팅",
+    "summary": "기존 글을 완전히 다른 품질로 업그레이드한다"
+  },
+  {
+    "command": "/cta",
+    "name": "행동 유도",
+    "summary": "즉시 클릭·구매·신청하게 만드는 CTA 생성"
+  },
+  {
+    "command": "/thread",
+    "name": "스레드 작성",
+    "summary": "SNS 스레드 형식으로 콘텐츠 생성"
+  },
+  {
+    "command": "/headline",
+    "name": "제목 생성",
+    "summary": "클릭하고 싶은 제목 생성"
+  },
+  {
+    "command": "/script",
+    "name": "영상 스크립트",
+    "summary": "쇼츠·릴스·유튜브 스크립트 생성"
+  }
+]
